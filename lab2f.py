@@ -1,7 +1,5 @@
 #!/usr/bin/env
 
-#!/usr/bin/env
-
 # Author: Bakari Taylor
 # Author ID: 183099233
 # Date Created: 2025/01/22
